@@ -41,9 +41,9 @@ cursor:pointer;
 font-size:2rem;
 outline:none;
 border: 5px outset white;
-background-color: white;
+background-color: paleturquoise;
 &:hover {
-    background-color:rgba(255,255,255,0.9);
+    background-color:white;
 }
 
 ${function({ gridSpan }) {
